@@ -21,4 +21,5 @@
 
 ## Community Servers
 
+- **[Cloudflare MCP Server](https://github.com/cloudflare/mcp-server-cloudflare)** - MCP server for interacting with Cloudflare services
 - **[OpenAI MCP Server](https://github.com/pierrebrunelle/mcp-server-openai)** - Query OpenAI models directly from Claude using MCP protocol
