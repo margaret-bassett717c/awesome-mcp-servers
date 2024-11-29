@@ -27,6 +27,8 @@
 - **[Exa](https://github.com/theishangoswami/exa-mcp-server)** - Exa AI Search API
 - **[Phabricator](https://github.com/baba786/phabricator-mcp-server)** - Interacting with Phabricator API
 - **[Obsidian](https://github.com/MarkusPfundstein/mcp-obsidian)** - Interacting with Obsidian via REST API
+- **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
+- **[MCP Installer](https://github.com/anaisbetts/mcp-installer)** - Set up MCP servers in Claude Desktop
 
 ---
 
