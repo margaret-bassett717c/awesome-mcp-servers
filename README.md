@@ -26,3 +26,7 @@
 - **[Kagi](https://github.com/ac3xx/mcp-servers-kagi)** - Kagi search API integration
 - **[Exa](https://github.com/theishangoswami/exa-mcp-server)** - Exa AI Search API
 - **[Phabricator](https://github.com/baba786/phabricator-mcp-server)** - Interacting with Phabricator API
+
+---
+
+Curated by [ChatHub](https://chathub.gg/?utm_source=mcp)
