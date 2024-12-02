@@ -30,7 +30,8 @@
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[MCP Installer](https://github.com/anaisbetts/mcp-installer)** - Set up MCP servers in Claude Desktop
 - **[Notion](https://github.com/danhilse/notion_mcp)** - Integrates with Notion's API to manage personal todo list
-- **[Bluesky](https://github.com/keturiosakys/bluesky-context-server) - integrates with Bluesky API to query and search feeds and posts.
+- **[Bluesky](https://github.com/keturiosakys/bluesky-context-server)**- integrates with Bluesky API to query and search feeds and posts.
+- **[Minima](https://github.com/dmayboroda/minima)**- Local RAG (on-premises) with MCP server.
 
 ---
 
